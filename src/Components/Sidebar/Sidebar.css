@@ -9,7 +9,7 @@
   padding: 16px 14px;
   box-sizing: border-box;
   border-right: 1px solid #e0e0e0;
-  font-family: "Google Sans", Roboto, sans-serif;
+  font-family: "Google Sans",sans-serif;
 }
 
 /* --- Top Section --- */
@@ -55,7 +55,7 @@
 .new-chat img {
   width: 18px;
   height: 18px;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 /* --- Recent Section --- */
