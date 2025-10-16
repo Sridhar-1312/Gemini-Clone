@@ -36,29 +36,29 @@ position: relative;
 .main .cards{
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
-    gap: 15px;
+    gap: 16px;
     padding: 20px;
 }
 .main .card{
     height: 200px;
-    padding: 15px;
+    padding: 16px;
     background-color: #f0f4f9;
-    border-radius: 10px;
+    border-radius: 12px;
     position: relative;
     cursor: pointer;
 }
 .main .card img{
-    width: 35px;
-    padding: 5px;
+    width: 32px;
+    padding: 6px;
     position: absolute;
     background-color: white;
     border-radius: 20px;
-    bottom: 10px;
-    right: 10px;
+    bottom: 12px;
+    right: 12px;
 }
 .main .card p{
     color: #585858;
-    font-size: 17px;
+    font-size: 18px;
 }
 
 .main .card:hover{
@@ -79,10 +79,10 @@ position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 20px;
+    gap: 22px;
     background-color:#f0f4f9 ;
     padding: 10px 20px;
-    border-radius: 50px;
+    border-radius: 52px;
 }
 .search-box img{
     width: 24px;
@@ -94,18 +94,18 @@ position: relative;
     background: transparent;
     border: none;
     outline: none;
-    padding: 8px;
-    font-size: 18px;
+    padding: 9px;
+    font-size: 20px;
 }
 
 .search-box div{
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 16px;
 }
 .main ,buttom-info{
     font-size: 13px;
-    margin: 15px auto;
+    margin: 16px auto;
     text-align: center;
     font-weight: 300;
 }
