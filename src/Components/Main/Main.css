@@ -48,17 +48,17 @@ position: relative;
     cursor: pointer;
 }
 .main .card img{
-    width: 32px;
-    padding: 6px;
+    width: 34px;
+    padding: 8px;
     position: absolute;
     background-color: white;
-    border-radius: 20px;
-    bottom: 12px;
-    right: 12px;
+    border-radius: 22px;
+    bottom: 14px;
+    right: 14px;
 }
 .main .card p{
     color: #585858;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .main .card:hover{
@@ -69,7 +69,7 @@ position: relative;
     bottom: 0;
     width: 100%;
     max-width: 900px;
-    padding: 0px 20px;
+    padding: 0px 22px;
     margin: auto;
 
 
@@ -81,11 +81,11 @@ position: relative;
     justify-content: space-between;
     gap: 22px;
     background-color:#f0f4f9 ;
-    padding: 10px 20px;
-    border-radius: 52px;
+    padding: 12px 22px;
+    border-radius: 50px;
 }
 .search-box img{
-    width: 24px;
+    width: 26px;
     cursor: pointer;
 }
 
@@ -94,8 +94,8 @@ position: relative;
     background: transparent;
     border: none;
     outline: none;
-    padding: 9px;
-    font-size: 20px;
+    padding: 10px;
+    font-size: 22px;
 }
 
 .search-box div{
@@ -103,7 +103,7 @@ position: relative;
     align-items: center;
     gap: 16px;
 }
-.main ,buttom-info{
+.main .bottom-info{
     font-size: 13px;
     margin: 16px auto;
     text-align: center;
