@@ -94,8 +94,8 @@ position: relative;
     background: transparent;
     border: none;
     outline: none;
-    padding: 10px;
-    font-size: 22px;
+    padding: 12px;
+    font-size: 24px;
 }
 
 .search-box div{
@@ -104,8 +104,8 @@ position: relative;
     gap: 16px;
 }
 .main .bottom-info{
-    font-size: 13px;
-    margin: 16px auto;
+    font-size: 14px;
+    margin: 17px auto;
     text-align: center;
     font-weight: 300;
 }
