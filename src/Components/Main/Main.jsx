@@ -44,7 +44,8 @@ const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            Gemini is offered in different variants such as Ultra, Pro, Flash, Nano (or similar) optimized for different tasks and compute constraints.
+            Gemini’s privacy notice describes what data is collected and how
+            it’s used to improve your experience.
           </p>
         </div>
       </div>
